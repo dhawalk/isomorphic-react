@@ -1,0 +1,35 @@
+{
+  "name": "f",
+  "varsion": "0.0.0",
+  "description": "Web Client for the application f",
+  "main": "main.js",
+  "author": "Dhawal",
+  "scripts": {
+    "build": "gulp --gulpfile ./app/build/gulpfile.js"
+  },
+  "dependencies": {
+    "async": "^1.4.2",
+    "browserify": "^11.1.0",
+    "central-event": "^1.0.1",
+    "eventemitter3": "^1.1.1",
+    "express": "^4.13.3",
+    "factor-bundle": "^2.5.0",
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.3",
+    "gulp-task-loader": "^1.2.3",
+    "jade": "^1.11.0",
+    "lodash": "^3.10.1",
+    "mkdirp": "^0.5.1",
+    "node-jsx": "^0.13.3",
+    "page": "^1.6.3",
+    "partition-bundle": "^2.2.0",
+    "react": "^0.14.0",
+    "react-addons-create-fragment": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "reactify": "^1.1.1",
+    "require-dir": "^0.3.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.4.0",
+    "xhr": "^2.1.0"
+  }
+}
